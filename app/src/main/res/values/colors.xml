@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nightgray">#5f6369</color>
+    <color name="line">#e6e2e2</color>
+    <color name="blue">#000000</color>
+
+    <color name="pink">#f8bbd0</color>
+    <color name="lightPurple">#D7AFFF</color>
+    <color name="skyblue">#9EDFFF</color>
+    <color name="gray">#F1EEEE</color>
+    <color name="red">#ffcdd2</color>
+    <color name="blue2">#bbdefb</color>
+    <color name="notgreen">#9C859F</color>
+
+
+    <color name="purple">#e1bee7</color>
+    <color name="Deep_Purple">#d1c4e9</color>
+    <color name="Indigo">#c5cae9</color>
+    <color name="Light_Blue">#b3e5fc</color>
+    <color name="Teal">#b2dfdb</color>
+    <color name="Green">#c8e6c9</color>
+    <color name="Light_Green">#dcedc8</color>
+    <color name="Lime">#f0f4c3</color>
+    <color name="Yellow">#fff9c4</color>
+    <color name="Amber">#ffecb3</color>
+    <color name="Brown">#d7ccc8</color>
+    <color name="Blue_Grey">#cfd8dc</color>
+
+    <color name="delete">#E64340</color>
+
+
+
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/drawable/gradiant.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/drawable/ic_color_png.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_add_note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_dev_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_draw_activiy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_login_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Notes2/app/src/main/res/layout/note_row.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
