@@ -3,6 +3,13 @@
 
 Now notes and lists are made easy with Notes App.
 
+Download apk file from [here](https://drive.google.com/file/d/1TkgIO0JIbTvXW9N29XdnKhJrASss9b7N/view?usp=sharing)
+
+# Demo Video
+
+
+https://user-images.githubusercontent.com/69643676/129338775-dc9169aa-207b-4e75-8690-efbe102c383a.mp4
+
 
 
 # How to use it
